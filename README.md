@@ -22,8 +22,8 @@ school and stuff
 
 ## why am i dumb
 
-1. i'm lazy
-2. i've got limited time
+1. [i'm lazy](https://github.com/md-tr/md-tr/tree/main#why-am-i-lazy)
+2. [i've got limited time](https://github.com/md-tr/md-tr/tree/main#why-do-i-have-limited-time)
 3. my interests are way too variable
 
 ## honorable mention
